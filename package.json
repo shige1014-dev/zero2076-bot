@@ -1,0 +1,14 @@
+{
+  "name": "zero2076-bot",
+  "version": "1.0.0",
+  "private": true,
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.80.0",
+    "dotenv": "^17.3.1",
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
